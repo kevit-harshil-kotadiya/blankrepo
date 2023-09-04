@@ -1,0 +1,1 @@
+console.log('this is f1 foo.js');
